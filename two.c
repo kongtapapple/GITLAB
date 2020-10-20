@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main()
 {
-oak = 1000;
+oak = 9999999999;
 }
